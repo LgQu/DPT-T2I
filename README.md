@@ -3,7 +3,7 @@
 
 [Leigang Qu](https://lgqu.github.io/), [Wenjie Wang](https://wenjiewwj.github.io/), [Yongqi Li](https://liyongqi67.github.io/), [Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/), [Liqiang Nie](https://liqiangnie.github.io/), and [Tat-Seng Chua](https://www.chuatatseng.com/)
 
-<a href='https://dpt-t2i.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a><a href='https://arxiv.org/abs/2403.04321'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+<a href='https://dpt-t2i.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/2403.04321'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
 This repository contains code and links to  the DPT model for text-to-image (T2I) generation to improve text-image alignment. We show the potential of discriminative abilities of pre-trained T2I models and significant gains on text-image alignment after discriminative tuning based on image-text matching (ITM) and referring expression comprehension (REC) tasks.  
 
