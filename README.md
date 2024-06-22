@@ -126,10 +126,11 @@ We thank the authors of [DETR](https://github.com/facebookresearch/detr), [MDETR
 If you find our work useful in your research, please consider citing DPT:
 
 ```tex
-@article{qu2024discriminative,
+@inproceedings{qu2024discriminative,
   title={Discriminative Probing and Tuning for Text-to-Image Generation},
   author={Qu, Leigang and Wang, Wenjie and Li, Yongqi and Zhang, Hanwang and Nie, Liqiang and Chua, Tat-Seng},
-  journal={arXiv preprint arXiv:2403.04321},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7434--7444},
   year={2024}
 }
 ```
