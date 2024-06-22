@@ -119,9 +119,7 @@ where `$CKPT_STAGE1` denotes the directory of the checkpoint obtained in stage 1
 
 
 
-## Acknowledgement
-
-We thank the authors of [DETR](https://github.com/facebookresearch/detr), [MDETR](https://github.com/ashkamath/mdetr), and [DiffusionITM](https://github.com/McGill-NLP/diffusion-itm), for making their code available.
+## Citation
 
 If you find our work useful in your research, please consider citing DPT:
 
@@ -134,3 +132,7 @@ If you find our work useful in your research, please consider citing DPT:
   year={2024}
 }
 ```
+
+## Acknowledgement
+
+We thank the authors of [DETR](https://github.com/facebookresearch/detr), [MDETR](https://github.com/ashkamath/mdetr), and [DiffusionITM](https://github.com/McGill-NLP/diffusion-itm), for making their code available. 
