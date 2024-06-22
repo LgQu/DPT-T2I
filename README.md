@@ -1,7 +1,7 @@
 # DPT-T2I
 <h3><a href="">Discriminative Probing and Tuning for Text-to-Image Generation</a></h3>
 
-[Leigang Qu](https://lgqu.github.io/), [Wenjie Wang](https://wenjiewwj.github.io/), [Yongqi Li](https://liyongqi67.github.io/), [Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/), [Liqiang Nie](https://liqiangnie.github.io/), and [Tat-Seng Chua](https://www.chuatatseng.com/)
+[Leigang Qu](https://leigang-qu.github.io/), [Wenjie Wang](https://wenjiewwj.github.io/), [Yongqi Li](https://liyongqi67.github.io/), [Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/), [Liqiang Nie](https://liqiangnie.github.io/), and [Tat-Seng Chua](https://www.chuatatseng.com/)
 
 <a href='https://dpt-t2i.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/2403.04321'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
