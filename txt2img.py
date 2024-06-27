@@ -12,7 +12,7 @@ import torch.nn.functional as F
 from PIL import Image
 from diffusers import DiffusionPipeline, UNet2DConditionModel, DDIMScheduler
 
-from models.model import build_model
+from models.model import build_model_combined
 from models.unet import register_unet_output, unregister_unet_output
 
 
@@ -180,7 +180,7 @@ if __name__ == '__main__':
         requires_safety_checker=False
     )
     if args.correction_factor > 0:
-        model = build_model(args, unet)      
+        model = build_model_combined(args, unet, is_inference=True)      
         model.to(device, dtype=dtype)
         model.load_state_dict_qformer(model_ckpt, device=device)
 
