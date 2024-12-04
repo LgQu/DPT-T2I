@@ -36,7 +36,7 @@ from diffusers.utils import check_min_version, is_wandb_available
 from diffusers.utils.import_utils import is_xformers_available
 
 from data.datasets import get_dataset
-from utils import evaluate_scores
+# from utils import evaluate_scores
 from models.unet import register_unet_output, unregister_unet_output
 from models.model import build_model_combined
 from models.loss import ContrastiveLoss
