@@ -64,6 +64,12 @@ The generated images can be seen in the `./outputs` directory.
 
 
 
+## Training Data
+
+Download the training data [here](https://huggingface.co/datasets/leigangqu/DPT-T2I_training_data/tree/main). 
+
+
+
 ## Training
 
 In **stage 1**, we freeze the UNet of Stable Diffusion and train the discriminative adapter: 
